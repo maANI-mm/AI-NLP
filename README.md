@@ -1,1 +1,1 @@
-# AI-Resources
+# AI-Resourcess
